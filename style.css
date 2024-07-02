@@ -1,8 +1,11 @@
 header{
     display: flex;
-    
+    div{
+    justify-content: flex-end
+    }
 }
+    
 .bacalhao{
-    width: 200px;
-    flex-direction: row-reverse;
+    width: 50%;
+    
 }
