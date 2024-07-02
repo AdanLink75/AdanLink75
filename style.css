@@ -4,5 +4,5 @@ header{
 }
 .bacalhao{
     width: 200px;
-    flex-direction: row;
+    flex-direction: row-reverse;
 }
