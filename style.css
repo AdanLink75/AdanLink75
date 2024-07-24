@@ -1,11 +1,14 @@
 header{
     display: flex;
-    div{
-    justify-content: flex-end
-    }
+    background-color: black;
+    color: white;
 }
     
 .bacalhao{
     width: 50%;
+    
+}
+
+.titulo{
     
 }
