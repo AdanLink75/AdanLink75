@@ -32,7 +32,7 @@ html{
     text-align: center;
     background-color: #2C2C2C;
     color: white;
-    border: white;
+    border-top-left-radius: white solid;
 }
 
 .joa{
