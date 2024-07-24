@@ -10,5 +10,10 @@ header{
 }
 
 .titulo{
-    
+    background-color: #3F3F3F;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-top: #4B4B4B solid 4px;
+    border-bottom: #2C2C2C solid 4px;
 }
