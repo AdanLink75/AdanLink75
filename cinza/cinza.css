@@ -73,3 +73,9 @@ html{
     color: #009688;
     background: #006c54;
 }
+
+.tiba{
+    margin: 120px;
+    border: solid darkgoldenrod;
+    background: darkslategrey;
+}
