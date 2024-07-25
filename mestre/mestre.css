@@ -63,13 +63,20 @@ html{
 }
 
 .omega{
-
+    padding: 1%;
+    align-content: center;
+    color: bisque;
+    background: teal;
+    border: black solid;
 }
 
 .beta{
-
+    color: aliceblue;
+    background: darkslategrey;
+    border: solid black;
+    border-bottom: solid #233b3b;
 }
 
 .bis{
-    
+    margin: 198px;
 }
