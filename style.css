@@ -73,4 +73,9 @@ html{
 
 .org{
  display: flex;
+ justify-content: space-evenly;
+}
+
+.tim{
+    border: #050136;
 }
