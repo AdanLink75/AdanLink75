@@ -63,9 +63,13 @@ html{
 }
 
 .h1{
-
+    margin: revert-layer;
+    border: mediumaquamarine solid;
+    background: #187d67;
+    padding: 2px;
 }
 
-.h2{
-    
+.h3{
+    color: #009688;
+    background: #006c54;
 }
